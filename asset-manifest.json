@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-red-portfolio-scss/static/css/main.1f3d3c39.css",
+    "main.js": "/react-red-portfolio-scss/static/js/main.81517cf6.js",
+    "index.html": "/react-red-portfolio-scss/index.html",
+    "main.1f3d3c39.css.map": "/react-red-portfolio-scss/static/css/main.1f3d3c39.css.map",
+    "main.81517cf6.js.map": "/react-red-portfolio-scss/static/js/main.81517cf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f3d3c39.css",
+    "static/js/main.81517cf6.js"
+  ]
+}
